@@ -3,5 +3,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a fullstack developer in a full time role.
+- 🏅 Current tech stack: Next-js, Expressjs, mysql
+- 🥈 I can also work with, reactjs, angularjs, nestjs, vuejs, always down to learn something new.
 - 🌱 I’m currently learning advance typescript and devops.
 - 📫 How to reach me: vishalacharya814@gmail.com
