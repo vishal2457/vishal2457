@@ -6,4 +6,4 @@ Here are some ideas to get you started: -->
 - 🏅 Current tech stack: Next-js, Angular-cli, Expressjs, mysql
 - 🥈 I can also work with, reactjs, angular-cli, nestjs, vuejs, always down to learn something new.
 - 🌱 I’m currently exploring typescript and devops.
-- 📫 How to reach me: vishalacharya814@gmail.com
+- 📫 Ypu can reach me on: vishalacharya814@gmail.com
