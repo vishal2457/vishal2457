@@ -2,4 +2,4 @@
 Here are some ideas to get you started: -->
 
 - Full stack developer
-- Building derived.dev
+- derived.dev, goevents.online, relaid.derived.dev
